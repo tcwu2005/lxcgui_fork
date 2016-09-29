@@ -1,0 +1,22 @@
+sysctl: setting key "kernel.printk": Read-only file system
+net.ipv6.conf.all.use_tempaddr = 2
+net.ipv6.conf.default.use_tempaddr = 2
+sysctl: setting key "kernel.kptr_restrict": Read-only file system
+sysctl: setting key "fs.protected_hardlinks": Read-only file system
+sysctl: setting key "fs.protected_symlinks": Read-only file system
+sysctl: setting key "kernel.sysrq": Read-only file system
+net.ipv4.conf.default.rp_filter = 1
+net.ipv4.conf.all.rp_filter = 1
+sysctl: setting key "kernel.yama.ptrace_scope": Read-only file system
+sysctl: setting key "vm.mmap_min_addr": Read-only file system
+sysctl: setting key "kernel.printk": Read-only file system
+net.ipv6.conf.all.use_tempaddr = 2
+net.ipv6.conf.default.use_tempaddr = 2
+sysctl: setting key "kernel.kptr_restrict": Read-only file system
+sysctl: setting key "fs.protected_hardlinks": Read-only file system
+sysctl: setting key "fs.protected_symlinks": Read-only file system
+sysctl: setting key "kernel.sysrq": Read-only file system
+net.ipv4.conf.default.rp_filter = 1
+net.ipv4.conf.all.rp_filter = 1
+sysctl: setting key "kernel.yama.ptrace_scope": Read-only file system
+sysctl: setting key "vm.mmap_min_addr": Read-only file system

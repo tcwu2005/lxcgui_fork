@@ -1,0 +1,42 @@
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/00:16:3e:fb:7c:0b
+Sending on   LPF/eth0/00:16:3e:fb:7c:0b
+Sending on   Socket/fallback
+DHCPREQUEST of 10.0.3.69 on eth0 to 255.255.255.255 port 67 (xid=0x5ea17857)
+DHCPACK of 10.0.3.69 from 10.0.3.1
+bound to 10.0.3.69 -- renewal in 1501 seconds.
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/00:16:3e:fb:7c:0b
+Sending on   LPF/eth0/00:16:3e:fb:7c:0b
+Sending on   Socket/fallback
+DHCPRELEASE on eth0 to 10.0.3.1 port 67 (xid=0x60b265ce)
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/00:16:3e:fb:7c:0b
+Sending on   LPF/eth0/00:16:3e:fb:7c:0b
+Sending on   Socket/fallback
+DHCPRELEASE on eth0 to 10.0.3.1 port 67 (xid=0x24d95665)
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/00:16:3e:dc:d8:c6
+Sending on   LPF/eth0/00:16:3e:dc:d8:c6
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x60489aab)
+DHCPREQUEST of 10.0.3.69 on eth0 to 255.255.255.255 port 67 (xid=0x60489aab)
+DHCPOFFER of 10.0.3.69 from 10.0.3.1
+DHCPACK of 10.0.3.69 from 10.0.3.1
+bound to 10.0.3.69 -- renewal in 1512 seconds.
